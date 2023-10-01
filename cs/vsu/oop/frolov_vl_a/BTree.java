@@ -1,9 +1,8 @@
 package cs.vsu.oop.frolov_vl_a;
 
 /*
-делать через дженерики
-в узле делаем через лист
- */
+* Делаю свою структуру B*-Tree
+* */
 
 
 import java.util.ArrayList;
